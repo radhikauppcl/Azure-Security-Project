@@ -18,7 +18,7 @@ The goal is to **secure cloud resources**, enforce **Zero Trust principles**, an
 
 ---
 
-### 2. GitHub Repository Protection(link to project) to ensure
+### 2. GitHub Repository Protection(https://github.com/JanieAbutu/Azure-Security-Project/tree/main/GitHub%20VPN%20Access%20Control) to ensure
 - Restricted access to sensitive repos via VPN-only  
 - Applied Conditional Access policies  
 - Integrated Defender for Endpoint on BYOD laptops  
