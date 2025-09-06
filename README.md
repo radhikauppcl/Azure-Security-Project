@@ -10,7 +10,7 @@ The goal is to **secure cloud resources**, enforce **Zero Trust principles**, an
 
 ##  Projects and Expected Outcomes
 
-### 1. [Secure Azure Resources with VPN + Azure AD](link to project) to ensure
+### 1. Secure Azure Resources with VPN + Azure AD(link to project) to ensure
 - Eliminated public exposure  
 - Configured Point-to-Site VPN with Azure AD authentication  
 - Applied Microsoft Defender for Cloud recommendations  
@@ -18,14 +18,14 @@ The goal is to **secure cloud resources**, enforce **Zero Trust principles**, an
 
 ---
 
-### 2. [GitHub Repository Protection](link to project) to ensure
+### 2. GitHub Repository Protection(link to project) to ensure
 - Restricted access to sensitive repos via VPN-only  
 - Applied Conditional Access policies  
 - Integrated Defender for Endpoint on BYOD laptops  
 
 ---
 
-### 3. [Insider Threat & DLP Controls](link to project) to ensure
+### 3. Insider Threat & DLP Controls(link to project) to ensure
 - Prevented data exfiltration from GitHub Codespaces  
 - Applied Intune + Defender for Endpoint for device control  
 - Used Conditional Access to restrict unmanaged devices  
@@ -53,7 +53,7 @@ The goal is to **secure cloud resources**, enforce **Zero Trust principles**, an
 
 ---
 
-## 📝 Lessons Learned
+## Lessons Learned
 - Importance of properly configuring **AAD app registrations** for VPN  
 - NSG rules must explicitly allow **VPN-to-resource traffic**  
 - **Conditional Access** is the glue for enforcing Zero Trust across Azure & SaaS  
@@ -61,8 +61,8 @@ The goal is to **secure cloud resources**, enforce **Zero Trust principles**, an
 
 ---
 
-## 👤 Author
+## Author
 **Ofunneka Jennifer Okonkwoabutu — *Cybersecurity | Cloud Security | AI Security*  
-- 💼 LinkedIn: [link]  
-- 🛡 GitHub Portfolio: *This repo is a living collection of my Azure security implementations*
+- LinkedIn: [link]  
+- GitHub Portfolio: *This repo is a living collection of my Azure security implementations*
 
