@@ -10,7 +10,7 @@ The goal is to **secure cloud resources**, enforce **Zero Trust principles**, an
 
 ##  Projects and Expected Outcomes
 
-### 1. Secure Azure Resources with VPN + Azure AD(./secure-remote-access/) to ensure
+### 1. Secure Azure Resources with VPN + Azure AD(https://github.com/JanieAbutu/Azure-Security-Project/tree/main/secure-remote-access) to ensure
 - Eliminated public exposure  
 - Configured Point-to-Site VPN with Azure AD authentication  
 - Applied Microsoft Defender for Cloud recommendations  
