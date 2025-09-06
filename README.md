@@ -25,7 +25,7 @@ The goal is to **secure cloud resources**, enforce **Zero Trust principles**, an
 
 ---
 
-### 3. Insider Threat & DLP Controls(link to project) to ensure
+### 3. Insider Threat & DLP Controls(https://github.com/JanieAbutu/Azure-Security-Project/tree/main/insider_threat_DLP_controls) to ensure
 - Prevented data exfiltration from GitHub Codespaces  
 - Applied Intune + Defender for Endpoint for device control  
 - Used Conditional Access to restrict unmanaged devices  
